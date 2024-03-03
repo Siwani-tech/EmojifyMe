@@ -1,0 +1,13 @@
+.emoji-container {
+    text-align: center;
+  }
+  
+  .emoji {
+    font-size: 400rem; /* Adjust size as needed */
+  }
+  
+  .emoji-name {
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+  }
+  
